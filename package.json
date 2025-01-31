@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "example": "clear && npx tsx src/example.ts",
-    "test": "jest"
+    "test": "jest --watch"
   },
   "author": "",
   "license": "ISC",
